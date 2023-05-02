@@ -1,0 +1,48 @@
+Copy code
+# General
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.tmp
+*~
+.DS_Store
+*.egg-info/
+dist/
+build/
+.idea/
+
+# Environments
+.env
+.venv/
+*.venv
+venv/
+.Python
+.pyenv/
+python_env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# PyCharm specific
+.idea/
+
+# Visual Studio Code specific
+.vscode/
